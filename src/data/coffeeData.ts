@@ -1,9 +1,13 @@
 import { MenuItem } from '../types/coffee';
+import heroImg from '../assets/images/hero_coffee_atmosphere_1791175348253.jpg';
+import pouroverImg from '../assets/images/coffee_pourover_craft_1791175360754.jpg';
+import latteImg from '../assets/images/coffee_espresso_latte_1791175371816.jpg';
+import pastryImg from '../assets/images/coffee_pastry_roastery_1791175381853.jpg';
 
-export const HERO_IMAGE = '/src/assets/images/hero_coffee_atmosphere_1791175348253.jpg';
-export const POUROVER_IMAGE = '/src/assets/images/coffee_pourover_craft_1791175360754.jpg';
-export const LATTE_IMAGE = '/src/assets/images/coffee_espresso_latte_1791175371816.jpg';
-export const PASTRY_IMAGE = '/src/assets/images/coffee_pastry_roastery_1791175381853.jpg';
+export const HERO_IMAGE = heroImg;
+export const POUROVER_IMAGE = pouroverImg;
+export const LATTE_IMAGE = latteImg;
+export const PASTRY_IMAGE = pastryImg;
 
 export const MENU_ITEMS: MenuItem[] = [
   // ESPRESSO & MILK
