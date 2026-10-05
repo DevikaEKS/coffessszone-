@@ -1,0 +1,6 @@
+{
+  "name": "Komorebi Coffee Roastery",
+  "description": "Artisanal micro-roastery and slow bar serving direct-trade single origin coffees, precision hand pours, and dawn-baked pastries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
